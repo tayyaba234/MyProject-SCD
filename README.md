@@ -79,10 +79,10 @@ python chatgui.py
 ## **Screenshots**
 
 ### **Training the Chatbot**
-![Training Screenshot](https://via.placeholder.com/800x400?text=Training+Chatbot)
+![Training Screenshot](https://via.placeholder.com/800x400?text=Training+Chatbot+Tayyaba)
 
 ### **Chatbot GUI**
-![Chatbot GUI Screenshot](https://via.placeholder.com/800x400?text=Chatbot+GUI)
+![Chatbot GUI Screenshot](https://via.placeholder.com/800x400?text=Chatbot+GUI+Tayyaya)
 
 ---
 
